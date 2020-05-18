@@ -1,4 +1,4 @@
-# my_project_DS
+# Cup_IT_2020
 You will receive a set of data on bank customers for 2018, which is divided into training and test sets. you need to build on the received data model predicting CLTV values by customers for the second half of 2018. To solve this problem, you need:
 1. Highlight the most suitable signs for analysis.
 2. To work out hypotheses about the relationship of various signs with the target variable using the methods of statistical and graphical analysis.
